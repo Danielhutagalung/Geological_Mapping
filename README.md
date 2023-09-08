@@ -6,10 +6,11 @@ Geological mapping using Random Forest
 
 -Geological Map
 
--Gravity Map
+-CBA Map
 
--Magnetic Map
+-Gravity Resiual Map
 
--Landsat 8
+-Composite Band Landsat 8
 
+-Density of Surface Map
 
