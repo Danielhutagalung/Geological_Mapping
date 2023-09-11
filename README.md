@@ -1,6 +1,6 @@
 # Geological_Mapping
 ==
-Geological mapping using Random Forest
+Geological mapping using Random Forest and CNN
 --
 *Data*
 
